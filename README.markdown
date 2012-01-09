@@ -4,7 +4,7 @@ A jQuery plugin that gives your input controls the ability to change direction a
 
 Arabic is not the only language that is written from right to left, you can check this list for [right to left languages](http://en.wikipedia.org/wiki/Right-to-left), and the code can be easily extended to support these languages.
 
-This project is a fork from the original project [here]() that introduces the following changes:
+This project is a fork from the original project [here](https://github.com/alotaiba/Auto-Input-Text-Direction) that introduces the following changes:
 *    Direction will be changed according to the number of characters, so if the Arabic characters are more than other characters the text will change its direction to `rtl`, but if the Arabic characters are less than other characters the text will be `ltr`.
 *    A jQuery plugin that makes it easy to use this library with your JavaScript code:
 
