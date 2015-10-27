@@ -19,4 +19,4 @@ This work is licensed under [GNU General Public License v3](http://www.gnu.org/l
 #    Contact
 *    Abd Allah Diab (mpcabd)
 *    Email: 	mpcabd {AT} G Mail (dot) COM
-*    Blog:	http://mpcabd.igeex.biz
+*    Blog:	http://mpcabd.xyz
