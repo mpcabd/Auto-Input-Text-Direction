@@ -18,8 +18,8 @@
  */
  
  /**
- * Converted to a jQuery plugin by Abd Allah Diab
- * http://mpcabd.igeex.biz
+ * Converted to a jQuery plugin by Abdullah Diab
+ * http://mpcabd.xyz
  * mpcabd@gmail.com
  */
 
